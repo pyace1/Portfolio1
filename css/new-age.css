@@ -343,11 +343,11 @@ section.contact ul.list-social li a {
 }
 
 section.contact ul.list-social li.social-github a {
-  background-color: #444444;
+  background-color: #211F1F;
 }
 
 section.contact ul.list-social li.social-github a:hover {
-  background-color: #0d95e8;
+  background-color: #423e3e;
 }
 
 section.contact ul.list-social li.social-facebook a {
@@ -358,12 +358,12 @@ section.contact ul.list-social li.social-facebook a:hover {
   background-color: #344e86;
 }
 
-section.contact ul.list-social li.social-google-plus a {
-  background-color: #dd4b39;
+section.contact ul.list-social li.social-linkedin a {
+  background-color: #007bb6;
 }
 
-section.contact ul.list-social li.social-google-plus a:hover {
-  background-color: #d73925;
+section.contact ul.list-social li.social-linkedin a:hover {
+  background-color: #005780;
 }
 
 footer {
